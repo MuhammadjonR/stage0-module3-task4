@@ -3,7 +3,8 @@ package lang.print.gaps.task4;
 public class IntRepresentation {
     public static void main(String[] args) {
      char a = 'a';
-     char b = 'b';
-     double s = (9*a*a-5*b+2+a-7)*((a+b-4*a*b)/2);
+     char c = 'c';
+     char h = 'h';
+     char r = 'r';
     }
 }
